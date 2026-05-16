@@ -1,0 +1,9 @@
+customtkinter
+opencv-python
+mediapipe
+pyserial
+Pillow
+pyautogui
+pygame
+SpeechRecognition
+PyAudio

@@ -1,0 +1,30 @@
+Byte-compiled / optimized / DLL files
+
+pycache/
+*.py[cod]
+*$py.class
+
+Environments
+
+.env
+.venv
+env/
+venv/
+ENV/
+myenv/
+
+PyInstaller Build Folders (CRITICAL: DO NOT UPLOAD THESE)
+
+build/
+dist/
+*.spec
+
+User Data & Captures
+
+nithinverse_profile.json
+NithinVerse_Captures/
+
+OS metadata
+
+.DS_Store
+Thumbs.db
